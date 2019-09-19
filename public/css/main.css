@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Arial2';
+    src: url('../font/SVN-Arial-2.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Arial2Italic';
+    src: url('../font/SVN-Arial-2-italic.ttf') format('truetype');
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Arial2Bold';
+    src: url('../font/SVN-Arial-2-bold.ttf') format('truetype');
+    font-weight: bold;
+}
+@font-face {
+    font-family: 'Arial2BoldItalic';
+    src: url('../font/SVN-Arial-2-bold-italic.ttf') format('truetype');
+    font-style: italic;
+    font-weight: bold;
+}
